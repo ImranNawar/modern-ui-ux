@@ -1,6 +1,9 @@
 # Modern-UI-UX - Beautiful and Responsive Website Frontend
 Welcome to modern-ui-ux! This project is a stunning and responsive website frontend built using React.
 
+## Live:
+[![Home Page](./src/assets/HomePage.png)](https://imrannawar.github.io/modern-ui-ux/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
